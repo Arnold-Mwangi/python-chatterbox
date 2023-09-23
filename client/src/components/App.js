@@ -16,7 +16,7 @@ function App() {
       .then((r) => r.json())
       .then((messages) => setMessages(messages));
   }, []);
-
+ console.log(messages)
   function handleAddMessage(newMessage) {
     setMessages([...messages, newMessage]);
   }
@@ -37,10 +37,13 @@ function App() {
     setMessages(updatedMessages);
   }
 
-  const displayedMessages = messages.filter((message) =>
-    message.body.toLowerCase().includes(search.toLowerCase())
-  );
-
+  const displayedMessages = messages.filter((message) => {
+    const messageBody = message.body || ""; // Handle null message.body
+    const searchString = search || ""; // Handle null search
+  
+    return messageBody.toLowerCase().includes(searchString.toLowerCase());
+  });
+  
   return (
     <main className={isDarkMode ? "dark-mode" : ""}>
       <Header isDarkMode={isDarkMode} onToggleDarkMode={setIsDarkMode} />

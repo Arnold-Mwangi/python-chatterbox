@@ -2,68 +2,172 @@
   "messages": [
     {
       "id": 1,
-      "body": "Hello 👋",
-      "username": "Liza",
-      "created_at": "2021-01-07T09:15:27"
+      "username": "Duane",
+      "body": "Health carry amount.",
+      "updated_at": "2023-09-23 02:16:11",
+      "created_at": "2023-09-23 01:27:12"
     },
     {
       "id": 2,
-      "body": "Hi brother",
       "username": "Duane",
-      "created_at": "2021-01-07T09:16:37"
+      "body": "System fine manage task whose.",
+      "created_at": "2023-09-23 01:27:12"
     },
     {
       "id": 3,
-      "body": "let's get this chat app working",
-      "username": "Liza",
-      "created_at": "2021-01-07T09:16:50"
+      "username": "Maria",
+      "body": "War serve the player heart thousand rate.",
+      "created_at": "2023-09-23 01:27:12"
     },
     {
       "id": 4,
-      "body": "ngl, this looks like a lot 😬",
-      "username": "Duane",
-      "created_at": "2021-01-07T09:20:10"
+      "username": "Maria",
+      "body": "Most price accept model manager as.",
+      "created_at": "2023-09-23 01:27:12"
     },
     {
       "id": 5,
-      "body": "You got this! 💪",
+      "username": "Duane",
+      "body": "Traditional social economic study discover surface unit mind.",
+      "created_at": "2023-09-23 01:27:12"
+    },
+    {
+      "id": 6,
+      "username": "Scott",
+      "body": "Direction pretty rest.",
+      "created_at": "2023-09-23 01:27:12"
+    },
+    {
+      "id": 7,
+      "username": "Nancy",
+      "body": "Media might store agree serve food ok just.",
+      "created_at": "2023-09-23 01:27:12"
+    },
+    {
+      "id": 8,
+      "username": "Maria",
+      "body": "Marriage over yes money add medical card.",
+      "created_at": "2023-09-23 01:27:12"
+    },
+    {
+      "id": 9,
+      "username": "Maria",
+      "body": "Station table same night.",
+      "created_at": "2023-09-23 01:27:12"
+    },
+    {
+      "id": 10,
+      "username": "Nancy",
+      "body": "Mission prevent idea bar growth minute business.",
+      "created_at": "2023-09-23 01:27:12"
+    },
+    {
+      "id": 11,
+      "username": "Tanya",
+      "body": "Which stage across science focus else.",
+      "created_at": "2023-09-23 01:27:12"
+    },
+    {
+      "id": 12,
+      "username": "Nancy",
+      "body": "Man everyone sort rock operation.",
+      "created_at": "2023-09-23 01:27:12"
+    },
+    {
+      "id": 13,
+      "username": "Duane",
+      "body": "Art happy where focus seat billion.",
+      "created_at": "2023-09-23 01:27:12"
+    },
+    {
+      "id": 14,
+      "username": "Tanya",
+      "body": "Each need common page.",
+      "created_at": "2023-09-23 01:27:12"
+    },
+    {
+      "id": 15,
+      "username": "Tanya",
+      "body": "Voice Mr off.",
+      "created_at": "2023-09-23 01:27:12"
+    },
+    {
+      "id": 16,
+      "username": "Tanya",
+      "body": "Share business activity attack part report range feel.",
+      "created_at": "2023-09-23 01:27:12"
+    },
+    {
+      "id": 17,
+      "username": "Duane",
+      "body": "East form none.",
+      "created_at": "2023-09-23 01:27:12"
+    },
+    {
+      "id": 18,
+      "username": "Maria",
+      "body": "Spend former beautiful poor not.",
+      "created_at": "2023-09-23 01:27:12"
+    },
+    {
+      "id": 19,
+      "username": "Scott",
+      "body": "Someone feeling seven again meeting opportunity.",
+      "created_at": "2023-09-23 01:27:12"
+    },
+    {
+      "id": 20,
+      "username": "Tanya",
+      "body": "Girl fact heavy we stop.",
+      "created_at": "2023-09-23 01:27:12"
+    },
+    {
+      "id": 21,
+      "username": null,
+      "body": null,
+      "created_at": "2023-09-23 01:38:40"
+    },
+    {
+      "id": 22,
+      "username": null,
+      "body": null,
+      "created_at": "2023-09-23 01:40:25"
+    },
+    {
+      "id": 23,
+      "username": "Arnold",
+      "body": "Go to bed",
+      "created_at": "2023-09-23 01:41:29"
+    },
+    {
+      "id": 24,
+      "username": null,
+      "body": null,
+      "created_at": "2023-09-23 01:42:12"
+    },
+    {
+      "id": 25,
+      "username": null,
+      "body": null,
+      "created_at": "2023-09-23 01:44:38"
+    },
+    {
+      "id": 26,
+      "username": null,
+      "body": null,
+      "created_at": "2023-09-23 01:45:57"
+    },
+    {
+      "id": 27,
+      "username": null,
+      "body": null,
+      "created_at": "2023-09-23 01:46:47"
+    },
+    {
+      "id": 28,
       "username": "Liza",
-      "created_at": "2021-01-07T09:21:11"
-    },
-    {
-      "username": "Duane",
-      "body": "Wake Gathoni",
-      "id": 6
-    },
-    {
-      "username": "Duane",
-      "body": "Completing labs",
-      "id": 7
-    },
-    {
-      "username": "Duane",
-      "body": "Thinking of Today",
-      "id": 8
-    },
-    {
-      "username": "Duane",
-      "body": "Kujituma",
-      "id": 9
-    },
-    {
-      "username": "Duane",
-      "body": "Bonti",
-      "id": 10
-    },
-    {
-      "username": "Duane",
-      "body": "Sounds great",
-      "id": 11
-    },
-    {
-      "username": "Duane",
-      "body": "Out of the blue",
-      "id": 12
+      "body": "Hello \ud83d\udc4b",
+      "created_at": "2023-09-23 02:16:12"
     }
   ]
 }
